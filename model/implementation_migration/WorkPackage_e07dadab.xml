@@ -1,0 +1,8 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RFC1324/CR170 (CGI)"
+    id="e07dadab">
+  <properties
+      key="Supplier"
+      value="CGI"/>
+</archimate:WorkPackage>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="8b7f63c3"
+    accessType="1">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_334decc3.xml#334decc3"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_3f034137.xml#3f034137"/>
+</archimate:AccessRelationship>
